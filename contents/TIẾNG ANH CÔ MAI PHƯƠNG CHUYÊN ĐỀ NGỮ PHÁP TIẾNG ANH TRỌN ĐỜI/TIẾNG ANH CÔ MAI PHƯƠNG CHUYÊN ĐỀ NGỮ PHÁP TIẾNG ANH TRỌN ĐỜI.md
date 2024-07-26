@@ -15,7 +15,7 @@
 
 ## BÀI 2 : PHƯƠNG PHÁP HỌC TỪ LOẠI ( BUỔI 1)
 
-<!-- [BÀI HỌC](https://youtu.be/5CpcwhUjm0Y) -->
+<video controls src="ChuyenDe1/2/BaiHoc/1 2 Bài 2 Phương pháp học từ loại Buổi 1.mp4" title="Title"></video>
 
 [TÀI LIỆU](https://drive.google.com/drive/folders/1cSzeOdQ7I9VLRJoUeAPMRqOpsJGP7U67?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1tEf2AvqfQa0RHflu6LEHZkmol-XTLxRa/view?usp%3Dsharing)
@@ -24,7 +24,7 @@
 
 ## BÀI 3 : PHƯƠNG PHÁP HỌC TỪ LOẠI ( BUỔI 2 )
 
-<!-- [BÀI HỌC](https://youtu.be/7NRgC3P9JCY) -->
+<video controls src="ChuyenDe1/3/BaiHoc/1 3 Bài 3  Phương pháp học từ loại Buổi 2.mp4" title="Title"></video>
 
 [TÀI LIỆU](https://drive.google.com/drive/folders/1BydSJLo3J_CiMemdYIMXGuk4aO7umXRC?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1C9p3IfV7J68onV7bZgvan5JvA0mihZ5H/view?usp%3Dsharing)
@@ -32,7 +32,7 @@
 
 ## BÀI 4 : PHƯƠNG PHÁP HỌC TỪ LOẠI ( BUỔI 3 )
 
-<!-- [BÀI HỌC](https://youtu.be/ZMnGoxBhUew) -->
+<video controls src="ChuyenDe1/4/BaiHoc/1 4 Bài 4  Phương pháp học từ loại Buổi 3.mp4" title="Title"></video>
 
 [TÀI LIỆU](https://drive.google.com/drive/folders/1mxaqt4wjXYc2YvCh3793TM-0fb4JHuAz?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/12ok42wo7rOX6coCmzXH6mkxd_JrTd_Dw/view?usp%3Dsharing)
@@ -40,7 +40,7 @@
 
 ## BÀI 5 : PHƯƠNG PHÁP HỌC TỪ LOẠI ( BUỔI 4 )
 
-<!-- [BÀI HỌC](https://youtu.be/chvOMcyP644) -->
+<video controls src="ChuyenDe1/5/BaiHoc/1 5 Bài 5  Phương pháp học từ loại Buổi 4.mp4" title="Title"></video>
 
 [TÀI LIỆU](https://drive.google.com/drive/folders/1nGBUdwuYEXDJYt6CWwVjFPUSrRQvg1jq?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1zWKNLcG8_Hp_8Hb9G9sjqQ5OBG44Mlca/view?usp%3Dsharing)
