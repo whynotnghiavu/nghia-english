@@ -7,6 +7,9 @@
 ## BÀI 1 : TÌM HIỂU CHUNG VỀ CÁC TỪ LOẠI TRONG TIẾNG ANH
 
 <!-- [BÀI HỌC](https://youtu.be/ksSLrU_zyYI) -->
+
+<video controls src="ChuyenDe1/1/BaiHoc/1 1 Bài 1 Tìm hiểu chung về các từ loại trong tiếng Anh.mp4" title="Title"></video>
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/1mo8QqxfGWKPsRu8HgB6mHOQi5dzDFsIz?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1NZrdJkHyKeh0FSCHn_3V3hteEToKV691/view?usp%3Dsharing)
 2
@@ -14,6 +17,7 @@
 ## BÀI 2 : PHƯƠNG PHÁP HỌC TỪ LOẠI ( BUỔI 1)
 
 <!-- [BÀI HỌC](https://youtu.be/5CpcwhUjm0Y) -->
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/1cSzeOdQ7I9VLRJoUeAPMRqOpsJGP7U67?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1tEf2AvqfQa0RHflu6LEHZkmol-XTLxRa/view?usp%3Dsharing)
 3
@@ -21,6 +25,7 @@
 ## BÀI 3 : PHƯƠNG PHÁP HỌC TỪ LOẠI ( BUỔI 2 )
 
 <!-- [BÀI HỌC](https://youtu.be/7NRgC3P9JCY) -->
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/1BydSJLo3J_CiMemdYIMXGuk4aO7umXRC?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1C9p3IfV7J68onV7bZgvan5JvA0mihZ5H/view?usp%3Dsharing)
 4
@@ -28,6 +33,7 @@
 ## BÀI 4 : PHƯƠNG PHÁP HỌC TỪ LOẠI ( BUỔI 3 )
 
 <!-- [BÀI HỌC](https://youtu.be/ZMnGoxBhUew) -->
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/1mxaqt4wjXYc2YvCh3793TM-0fb4JHuAz?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/12ok42wo7rOX6coCmzXH6mkxd_JrTd_Dw/view?usp%3Dsharing)
 5
@@ -35,6 +41,7 @@
 ## BÀI 5 : PHƯƠNG PHÁP HỌC TỪ LOẠI ( BUỔI 4 )
 
 <!-- [BÀI HỌC](https://youtu.be/chvOMcyP644) -->
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/1nGBUdwuYEXDJYt6CWwVjFPUSrRQvg1jq?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1zWKNLcG8_Hp_8Hb9G9sjqQ5OBG44Mlca/view?usp%3Dsharing)
 6
@@ -57,6 +64,7 @@ THI ONLINE : TỪ LOẠI VÀ PHƯƠNG PHÁP HỌC TỪ VỰNG ( ĐỀ SỐ 03 )
 ## BÀI 6 : TỪ LOẠI : DANH TỪ ( BUỔI 1 )
 
 <!-- [BÀI HỌC](https://youtu.be/hg1eb-RMXHI) -->
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/1tGMZa4-vXhasJ-pBovdW_y2XXuoYjAjx?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/19k0I884F4UfouLXRtk2WkTnL5wH5g5xY/view?usp%3Dsharing)
 10
@@ -64,6 +72,7 @@ THI ONLINE : TỪ LOẠI VÀ PHƯƠNG PHÁP HỌC TỪ VỰNG ( ĐỀ SỐ 03 )
 ## BÀI 7 : TỪ LOẠI : DANH TỪ ( BUỔI 2 )
 
 <!-- [BÀI HỌC](https://youtu.be/6HczExVrvGU) -->
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/1yCqjeJFpBSETmrGQdB0KN_H3lJp9sQsx?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1jS6BIpw3VWG3SZA4TjUDLFENh0qJZEXC/view?usp%3Dsharing)
 11
@@ -71,6 +80,7 @@ THI ONLINE : TỪ LOẠI VÀ PHƯƠNG PHÁP HỌC TỪ VỰNG ( ĐỀ SỐ 03 )
 ## BÀI 8 : TỪ LOẠI : DANH TỪ ( BUỔI 3 )
 
 <!-- [BÀI HỌC](https://youtu.be/tJMVkItGJXU) -->
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/1UzVceGvhE-7T4U0GO2mC43gsezCmKbzh?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1Ygb7fjr28ObXMwoiQbtRv6nqTR13uEvl/view?usp%3Dsharing)
 12
@@ -88,6 +98,7 @@ THI ONLINE : DANH TỪ ( ĐỀ SỐ 02 )
 ## BÀI 09 : TỪ LOẠI : TÍNH TỪ ( BUỔI 1 )
 
 <!-- [BÀI HỌC](https://youtu.be/bwqqFhyFnYs) -->
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/17IYLGUO7SVycrIp3A-oVF6DSlcmub3hD?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/18B7TO45v9KyLBtZY1KQIUFYTEjK9t_BP/view?usp%3Dsharing)
 15
@@ -95,6 +106,7 @@ THI ONLINE : DANH TỪ ( ĐỀ SỐ 02 )
 ## BÀI 10 : TỪ LOẠI : TÍNH TỪ ( BUỔI 2 )
 
 <!-- [BÀI HỌC](https://youtu.be/qMRkm9qWqnU) -->
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/1kqDh0DwHCDFyO9c35V3PXvAlWoTFyJiM?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1iByRSrwtPs8QgbkQaBjegwUHPD7ZtGTR/view?usp%3Dsharing)
 16
@@ -102,6 +114,7 @@ THI ONLINE : DANH TỪ ( ĐỀ SỐ 02 )
 ## BÀI 11 : TỪ LOẠI : TÍNH TỪ ( BUỔI 3 )
 
 <!-- [BÀI HỌC](https://youtu.be/JxIgGwlmah0) -->
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/1gLv84zFeUDmY351AlmkCC0G9S_a01RtO?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1GQtnj_15CSRRtLn9v_dipBmbb5oapJuT/view?usp%3Dsharing)
 17
@@ -109,6 +122,7 @@ THI ONLINE : DANH TỪ ( ĐỀ SỐ 02 )
 ## BÀI 12 : TỪ LOẠI : TÍNH TỪ ( BUỔI 4 )
 
 <!-- [BÀI HỌC](https://youtu.be/jYOBai08I9M) -->
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/15S2OetPfR1ajyawC2_KCbc3QHmTZzBow?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1cya0eJH9kImXcbuwCB8QxVUEdVL67u12/view?usp%3Dsharing)
 18
@@ -126,6 +140,7 @@ THI ONLINE : TÍNH TỪ ( ĐỀ SỐ 02 )
 ## BÀI 13 : TỪ LOẠI : TRẠNG TỪ ( BUỔI 1 )
 
 <!-- [BÀI HỌC](https://youtu.be/T4BDTThROwI) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1Mr9MgugBFOi8n5hES7TMUZPScWWFr5X2/view?usp%3Dsharing)
 
 21
@@ -133,6 +148,7 @@ THI ONLINE : TÍNH TỪ ( ĐỀ SỐ 02 )
 ## BÀI 14 : TỪ LOẠI : TRẠNG TỪ ( BUỔI 2 )
 
 <!-- [BÀI HỌC](https://youtu.be/_aEAkT0ds1w) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1EJSN-ZU0TyqYfpkMZ2_kqvIWx0N50byZ/view?usp%3Dsharing)
 
 22
@@ -153,6 +169,7 @@ THI ONLINE : TRẠNG TỪ ( ĐỀ SỐ 02 )
 ## BÀI 1 : CẤP SO SÁNH
 
 <!-- [BÀI HỌC](https://youtu.be/PiSzAWivxA8) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1gI-i3Zd23IuJyHPgAD1CNkXvj8P4kOTq/view?usp%3Dsharing)
 
 2
@@ -160,6 +177,7 @@ THI ONLINE : TRẠNG TỪ ( ĐỀ SỐ 02 )
 ## BÀI 2 : CẤP SO SÁNH ( LUYỆN TẬP )
 
 <!-- [BÀI HỌC](https://youtu.be/eHNkOA8iKNc) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1eMMY9T3uoKTWxlkpUm2l5zw46Df0Bu3x/view?usp%3Dsharing)
 
 3
@@ -185,6 +203,7 @@ THI ONLINE CHUYÊN ĐỀ 2 : CẤP SO SÁNH : ĐỀ SỐ 03
 ## BÀI 1 : ĐẠI TỪ ( BUỔI 1 )
 
 <!-- [BÀI HỌC](https://youtu.be/m6FPdDmdNl4) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/17hEMhyAD74chex0wreuNQyUipchF6u3s/view?usp%3Dsharing)
 
 2
@@ -192,11 +211,14 @@ THI ONLINE CHUYÊN ĐỀ 2 : CẤP SO SÁNH : ĐỀ SỐ 03
 ## BÀI 2 : ĐẠI TỪ ( BUỔI 2 )
 
 <!-- [BÀI HỌC](https://youtu.be/CFbFVs-KRUI) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1Tx8OePbgLe0DrX6ZJIvRqxR0hjq2bQbn/view?usp%3Dsharing)
 
 3
 LƯỢNG TỪ
+
 <!-- [BÀI HỌC](https://youtu.be/IFPv-UGdFQU) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1tecDHEBoMV7y0LuXV-200Ump00s3aJfY/view?usp%3Dsharing)
 
 4
@@ -204,6 +226,7 @@ LƯỢNG TỪ
 ## BÀI 3 : ĐẠI TỪ ( BUỔI 3 )
 
 <!-- [BÀI HỌC](https://youtu.be/r1HNQRhC6dE) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1q-BMxkoutj9Qd77CiXOADpiPM9KQEffx/view?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1TQYqqXQVuQgScY5BRIBzjv4uWU0PJcKA/view?usp%3Dsharing)
 5
@@ -211,6 +234,7 @@ LƯỢNG TỪ
 ## BÀI 4 : CHỮA BÀI TẬP TRỌNG ĐIỂM VỀ ĐẠI TỪ
 
 <!-- [BÀI HỌC](https://youtu.be/79MbNCgm6sg) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1ID5IPUxc9j1jqem1o6SyGyC5jitfNIWl/view?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1VJ0Rqkyc-HHV7UGvEVun0FvJ--pP57cB/view?usp%3Dsharing)
 6
@@ -236,6 +260,7 @@ THI ONLINE CHUYÊN ĐỀ 3 : ĐẠI TỪ - ĐỀ SỐ 03
 ## BÀI 1 : MẠO TỪ ( BUỔI 1 )
 
 <!-- [BÀI HỌC](https://youtu.be/OBXksaI20II) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1b00VWGYIcNdZoNV28JyBHfBZUFMibV5B/view?usp%3Dsharing)
 
 2
@@ -243,6 +268,7 @@ THI ONLINE CHUYÊN ĐỀ 3 : ĐẠI TỪ - ĐỀ SỐ 03
 ## BÀI 2 : MẠO TỪ ( BUỔI 2 )
 
 <!-- [BÀI HỌC](https://youtu.be/IgXrzB4oNyY) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1HOZyqhYVJDATZ2xeStVDvuyotdnVgaNk/view?usp%3Dsharing)
 
 3
@@ -250,6 +276,7 @@ THI ONLINE CHUYÊN ĐỀ 3 : ĐẠI TỪ - ĐỀ SỐ 03
 ## BÀI 3 : MẠO TỪ ( BUỔI 3 )
 
 <!-- [BÀI HỌC](https://youtu.be/5ptVsxbgzVQ) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1gUhxaBCfVtIItRWzBqp3eObCLgXNsKqS/view?usp%3Dsharing)
 
 4
@@ -257,6 +284,7 @@ THI ONLINE CHUYÊN ĐỀ 3 : ĐẠI TỪ - ĐỀ SỐ 03
 ## BÀI 4 : MẠO TỪ ( BUỔI 4 )
 
 <!-- [BÀI HỌC](https://youtu.be/S3Kffx6Zvu4) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/16lEyB40icCl-xauuin-8jCYpOOXthNWp/view?usp%3Dsharing)
 
 5
@@ -297,6 +325,7 @@ THI ONLINE CHUYÊN ĐỀ 4 : MẠO TỪ - ĐỀ SỐ 02
 ## BÀI 1 : THÌ HIỆN TẠI ĐƠN (1)
 
 <!-- [BÀI HỌC](https://youtu.be/oilom6YJYe0) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/16aMUzArY2PRkAEE4WnxJjqTQenan811w/view?usp%3Dsharing)
 
 2
@@ -304,6 +333,7 @@ THI ONLINE CHUYÊN ĐỀ 4 : MẠO TỪ - ĐỀ SỐ 02
 ## BÀI 1 : THÌ HIỆN TẠI ĐƠN (2)
 
 <!-- [BÀI HỌC](https://youtu.be/3D5pl0xp-bc) -->
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/1-QFcbFb2cJvEGIj0ccebys54EIJA80ba?usp%3Dsharing)
 
 3
@@ -311,6 +341,7 @@ THI ONLINE CHUYÊN ĐỀ 4 : MẠO TỪ - ĐỀ SỐ 02
 ## BÀI 2 : THÌ HIỆN TẠI TIẾP DIỄN
 
 <!-- [BÀI HỌC](https://youtu.be/cS_TBzyaHu4) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/18sunS4egSpNTw2NVwSCQHfTuOAJzy6yO/view?usp%3Dsharing)
 
 4
@@ -318,6 +349,7 @@ THI ONLINE CHUYÊN ĐỀ 4 : MẠO TỪ - ĐỀ SỐ 02
 ## BÀI 3 : HIỆN TẠI HOÀN THÀNH
 
 <!-- [BÀI HỌC](https://youtu.be/j-76eH4LyP4) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1I5Y-yIPBd7kkRpB4JhK5i4MtIjGm1MWh/view?usp%3Dsharing)
 
 5
@@ -325,6 +357,7 @@ THI ONLINE CHUYÊN ĐỀ 4 : MẠO TỪ - ĐỀ SỐ 02
 ## BÀI 4 : HIỆN TẠI HOÀN THÀNH TIẾP DIỄN
 
 <!-- [BÀI HỌC](https://youtu.be/vviLaprTF1k) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1VLotI_5GNuHTbu2a9hWOK-8ijeYdrlxW/view?usp%3Dsharing)
 
 6
@@ -332,6 +365,7 @@ THI ONLINE CHUYÊN ĐỀ 4 : MẠO TỪ - ĐỀ SỐ 02
 ## BÀI 5 : THÌ QUÁ KHỨ ĐƠN , THÌ QUÁ KHỨ TIẾP DIỄN
 
 <!-- [BÀI HỌC](https://youtu.be/gG-CSR7vl0s) -->
+
 [TÀI LIỆU](https://drive.google.com/drive/folders/16V269B94liQm7FMECYa49mpnupXv7HA-?usp%3Dsharing)
 
 7
@@ -339,6 +373,7 @@ THI ONLINE CHUYÊN ĐỀ 4 : MẠO TỪ - ĐỀ SỐ 02
 ## BÀI 6 : THÌ QUÁ KHỨ HOÀN THÀNH - THÌ QUÁ KHỨ HOÀN THÀNH TIẾP DIỄN
 
 <!-- [BÀI HỌC](https://youtu.be/lgvjUZjl2QI) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1pX_MRXM_F-u9nYvFEv5l-bXl1jMkZ-ul/view?usp%3Dsharing)
 
 8
@@ -346,6 +381,7 @@ THI ONLINE CHUYÊN ĐỀ 4 : MẠO TỪ - ĐỀ SỐ 02
 ## BÀI 7 : THÌ TƯƠNG LAI ĐƠN
 
 <!-- [BÀI HỌC](https://youtu.be/bNEERSXzv_U) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1Qg8D0s_-HoVMy_Ebo8zG7waiUf9UDxYF/view?usp%3Dsharing)
 
 9
@@ -353,6 +389,7 @@ THI ONLINE CHUYÊN ĐỀ 4 : MẠO TỪ - ĐỀ SỐ 02
 ## BÀI 8 : TƯƠNG LAI TIẾP DIỄN - TƯƠNG LAI HOÀN THÀNH VÀ TƯƠNG LAI HOÀN THÀNH TIẾP DIỄN
 
 <!-- [BÀI HỌC](https://youtu.be/ER3mW7I1jEM) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/13znpVP01Q365cNFAH5UhCppXnxDRd-6Z/view?usp%3Dsharing)
 
 10
@@ -360,6 +397,7 @@ THI ONLINE CHUYÊN ĐỀ 4 : MẠO TỪ - ĐỀ SỐ 02
 ## BÀI 9 : SỰ HÒA HỢP GIỮA CÁC THÌ
 
 <!-- [BÀI HỌC](https://youtu.be/c1zdWOqXSmM) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/16M-tmI4IWZQ6YOQq9xqNZmfBQZ-t8cx6/view?usp%3Dsharing)
 
 11
@@ -400,6 +438,7 @@ THI ONLINE : SỰ HÒA HỢP GIỮA CÁC THÌ ( ĐỀ SỐ 03 )
 ## BÀI 1 : CÁCH DÙNG BE - DO - HAVE
 
 <!-- [BÀI HỌC](https://youtu.be/w51DPtwwsTM) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1BHYSM9LFucXa31tFDecmnGPBAF5TS3Rz/view?usp%3Dsharing)
 
 2
@@ -417,6 +456,7 @@ THI ONLINE : CÁCH DÙNG BE - DO - HAVE ( ĐỀ SỐ 02 )
 ## BÀI 2 : CÁC LOẠI ĐỘNG TỪ
 
 <!-- [BÀI HỌC](https://youtu.be/pqSFoV9xH9k) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1c_RjAsYWmZZ23Gf1FavLO3SEWuMskZtM/view?usp%3Dsharing)
 
 5
@@ -442,6 +482,7 @@ THI ONLINE : CÁC LOẠI ĐỘNG TỪ ( ĐỀ SỐ 03 )
 ## BÀI 1 : ĐỘNG TỪ KHUYẾT THIẾU
 
 <!-- [BÀI HỌC](https://youtu.be/Awry34mUlS0) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1mFcysoDMSy7yIyU2dc1Ghd057I4uAtP2/view?usp%3Dsharing)
 
 2
@@ -472,6 +513,7 @@ THI ONLINE : ĐỘNG TỪ KHUYẾT THIẾU ( ĐỀ SỐ 04 )
 ## BÀI 1 : ĐỘNG TỪ NGUYÊN MẪU
 
 <!-- [BÀI HỌC](https://youtu.be/p2Tpnyor300) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1AJtwWQ-OaFTQbNMY_VkYth2QXJK6RB5W/view?usp%3Dsharing)
 
 2
@@ -494,6 +536,7 @@ THI ONLINE : ĐỘNG TỪ NGUYÊN MẪU : ( ĐỀ SỐ 03 )
 ## BÀI 2 : DANH ĐỘNG TỪ
 
 <!-- [BÀI HỌC](https://youtu.be/FfSZFu_Awug) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1iZf6fXnXbxHBcz8Ejiqz9k2J5vf5U_D6/view?usp%3Dsharing)
 
 6
@@ -511,6 +554,7 @@ THI ONLINE : DANH ĐỘNG TỪ ( ĐỀ SỐ 02 )
 ## BÀI 3 : CÁC CẤU TRÚC VỚI ĐỘNG TỪ NGUYÊN MẪU VÀ DANH ĐỘNG TỪ
 
 <!-- [BÀI HỌC](https://youtu.be/lEA2vZwEWbo) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1QZbTdOAJsuo9s76GtL5gaxkAuUOBq5QU/view?usp%3Dsharing)
 
 10
@@ -533,7 +577,9 @@ THI ONLINE : CÁC CẤU TRÚC VỚI ĐỘNG TỪ NGUYÊN MẪU VÀ DANH ĐỘNG 
 
 1
 SỰ HÒA HỢP GIỮA CHỦ NGỮ VÀ ĐỘNG TỪ
+
 <!-- [BÀI HỌC](https://youtu.be/PdgpUx1hNSM) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1LxmGQGakOo7tiartxjGh3kp1kmCvZz-t/view?usp%3Dsharing)
 
 2
@@ -569,6 +615,7 @@ THI ONLINE : SỰ HÒA HỢP GIỮA CHỦ NGỮ VÀ ĐỘNG TỪ ( ĐỀ SỐ 03
 ## BÀI 1 : GIỚI TỪ ( BUỔI 1 )
 
 <!-- [BÀI HỌC](https://youtu.be/pe57Yn78dk4) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1phfvALrx1ytPJ-7G23VHvRiKAj62dUmW/view?usp%3Dsharing)
 
 2
@@ -576,6 +623,7 @@ THI ONLINE : SỰ HÒA HỢP GIỮA CHỦ NGỮ VÀ ĐỘNG TỪ ( ĐỀ SỐ 03
 ## BÀI 2 : GIỚI TỪ ( BUỔI 2 )
 
 <!-- [BÀI HỌC](https://youtu.be/MkuHNoXdjPw) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1nxO1jg0MyWglXNkLRQ_AydwNmTmHYRww/view?usp%3Dsharing)
 
 3
@@ -583,6 +631,7 @@ THI ONLINE : SỰ HÒA HỢP GIỮA CHỦ NGỮ VÀ ĐỘNG TỪ ( ĐỀ SỐ 03
 ## BÀI 3 : GIỚI TỪ ( BUỔI 3 )
 
 <!-- [BÀI HỌC](https://youtu.be/WX59PWDKzm0) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1afS7lr6fqwWD5DgXAVA2rMD-zCyt2Ysi/view?usp%3Dsharing)
 
 4
@@ -590,6 +639,7 @@ THI ONLINE : SỰ HÒA HỢP GIỮA CHỦ NGỮ VÀ ĐỘNG TỪ ( ĐỀ SỐ 03
 ## BÀI 4 : GIỚI TỪ ( BUỔI 4 )
 
 <!-- [BÀI HỌC](https://youtu.be/2BqM8EWP6q8) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1FW_dZjK8wrEmEPHkmXO-Az2EIE0XpEFe/view?usp%3Dsharing)
 
 5
@@ -650,6 +700,7 @@ THI ONLINE 2 GIỚI TỪ
 ## BÀI 1 : CỤM ĐỘNG TỪ ( BUỔI 1 )
 
 <!-- [BÀI HỌC](https://youtu.be/QZBX31dptJU) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1EzrWp4YiMm3Pej95PxMHVeCWaCsS5TIh/view?usp%3Dsharing)
 
 2
@@ -657,6 +708,7 @@ THI ONLINE 2 GIỚI TỪ
 ## BÀI 2 : CỤM ĐỘNG TỪ ( BUỔI 2 )
 
 <!-- [BÀI HỌC](https://youtu.be/y9a_Vhv5xh4) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1fTk3nKvq1tazQjOybyB0gfI3eHACoeX4/view?usp%3Dsharing)
 
 3
@@ -664,6 +716,7 @@ THI ONLINE 2 GIỚI TỪ
 ## BÀI 3 : CỤM ĐỘNG TỪ ( BUỔI 3 )
 
 <!-- [BÀI HỌC](https://youtu.be/-bF5VwakzNQ) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1qtxbXszmiyZtAqPT1TiKIsnnMsRw1DAJ/view?usp%3Dsharing)
 
 4
@@ -719,6 +772,7 @@ THI ONLINE : CỤM ĐỘNG TỪ ( ĐỀ SỐ 6 )
 ## BÀI 1 : CÂU ĐIỀU KIỆN ( BUỔI 1 )
 
 <!-- [BÀI HỌC](https://youtu.be/WTzYqcV0K1w) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1e8Cd29N0SwrBSk5O9Gb_gA944Njapk8T/view?usp%3Dsharing)
 
 2
@@ -726,6 +780,7 @@ THI ONLINE : CỤM ĐỘNG TỪ ( ĐỀ SỐ 6 )
 ## BÀI 2 : CÂU ĐIỀU KIỆN ( BUỔI 2 )
 
 <!-- [BÀI HỌC](https://youtu.be/4cvDLN57GMg) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/11MlSdhFsSRsXTMR5kmbk-EeOnSVVxDaq/view?usp%3Dsharing)
 
 3
@@ -776,6 +831,7 @@ THI ONLINE CHUYÊN ĐỀ 12 : CÂU ĐIỀU KIỆN ( ĐỀ SỐ 08)
 ## BÀI 1 : CÂU CHỦ ĐỘNG - CÂU BỊ ĐỘNG ( BUỔI 1 )
 
 <!-- [BÀI HỌC](https://youtu.be/3mYdzQJjpBA) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1dpyXtFaO8DtxSF6gn6riAR-EMHIe_yZC/view?usp%3Dsharing)
 
 2
@@ -783,6 +839,7 @@ THI ONLINE CHUYÊN ĐỀ 12 : CÂU ĐIỀU KIỆN ( ĐỀ SỐ 08)
 ## BÀI 2 : CÂU CHỦ ĐỘNG - CÂU BỊ ĐỘNG ( BUỔI 2 )
 
 <!-- [BÀI HỌC](https://youtu.be/S_juzBmqbeU) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1XH_j-zp0hbQ7FQBzkbGpR2tlykOJD57v/view?usp%3Dsharing)
 
 3
@@ -790,6 +847,7 @@ THI ONLINE CHUYÊN ĐỀ 12 : CÂU ĐIỀU KIỆN ( ĐỀ SỐ 08)
 ## BÀI 3 : CÂU CHỦ ĐỘNG - CÂU BỊ ĐỘNG ( BUỔI 3 )
 
 <!-- [BÀI HỌC](https://youtu.be/wFcfXPapBZw) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1OfN7vX4iVY4BKdTXj51q2uZQGWD7okev/view?usp%3Dsharing)
 
 4
@@ -797,6 +855,7 @@ THI ONLINE CHUYÊN ĐỀ 12 : CÂU ĐIỀU KIỆN ( ĐỀ SỐ 08)
 ## BÀI 4 : CÂU CHỦ ĐỘNG - CÂU BỊ ĐỘNG ( BUỔI 4 )
 
 <!-- [BÀI HỌC](https://youtu.be/sBfTjD8fptA) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/16FSjEst9jH1R6YsdYdVzWgjHuTRndwcq/view?usp%3Dsharing)
 
 5
@@ -804,6 +863,7 @@ THI ONLINE CHUYÊN ĐỀ 12 : CÂU ĐIỀU KIỆN ( ĐỀ SỐ 08)
 ## BÀI 5 : CÂU CHỦ ĐỘNG - CÂU BỊ ĐỘNG ( BUỔI 5 )
 
 <!-- [BÀI HỌC](https://youtu.be/-34QLILt5WU) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1zWLq4V72FCxB4PE65niJuJRIf5UAAyjH/view?usp%3Dsharing)
 
 6
@@ -849,6 +909,7 @@ THI ONLINE : CÂU CHỦ ĐỘNG , CÂU BỊ ĐỘNG ( ĐỀ SỐ 03 )
 ## BÀI 1 : CÂU TRỰC TIẾP , CÂU GIÁN TIẾP ( BUỔI 1 )
 
 <!-- [BÀI HỌC](https://youtu.be/yNJ3T4OmeHY) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/14Jct4ACaX6ZO3HbJ_9SXMWutqI8cBg-P/view?usp%3Dsharing)
 
 2
@@ -856,6 +917,7 @@ THI ONLINE : CÂU CHỦ ĐỘNG , CÂU BỊ ĐỘNG ( ĐỀ SỐ 03 )
 ## BÀI 2 : CÂU TRỰC TIẾP , CÂU GIÁN TIẾP ( BUỔI 2 )
 
 <!-- [BÀI HỌC](https://youtu.be/2t3iUN_1sNU) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1zk5Asj4hDfhauzvNv9QgDWjZGY-d6hYM/view?usp%3Dsharing)
 
 3
@@ -863,6 +925,7 @@ THI ONLINE : CÂU CHỦ ĐỘNG , CÂU BỊ ĐỘNG ( ĐỀ SỐ 03 )
 ## BÀI 3 : CÂU TRỰC TIẾP , CÂU GIÁN TIẾP ( BUỔI 3 )
 
 <!-- [BÀI HỌC](https://youtu.be/Ppw1ARWLJ-E) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1FlJU_uEsARE3dfjIRWw6WFHon7GnloqM/view?usp%3Dsharing)
 
 4
@@ -870,6 +933,7 @@ THI ONLINE : CÂU CHỦ ĐỘNG , CÂU BỊ ĐỘNG ( ĐỀ SỐ 03 )
 ## BÀI 4 : CÂU TRỰC TIẾP , CÂU GIÁN TIẾP ( BUỔI 4 )
 
 <!-- [BÀI HỌC](https://youtu.be/zQBLD-65Dac) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1RCuKICXi2lNgFXtkNW9wKc3Bpzh4e7t8/view?usp%3Dsharing)
 
 5
@@ -877,6 +941,7 @@ THI ONLINE : CÂU CHỦ ĐỘNG , CÂU BỊ ĐỘNG ( ĐỀ SỐ 03 )
 ## BÀI 5 : CÂU TRỰC TIẾP , CÂU GIÁN TIẾP ( BUỔI 5 )
 
 <!-- [BÀI HỌC](https://youtu.be/7LWW15sPFMA) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1kbnJOTpqNNDL7U2ZKT0YkDh9z5f9kct6/view?usp%3Dsharing)
 
 6
@@ -927,6 +992,7 @@ THI ONLINE : CÂU TRỰC TIẾP , CÂU GIÁN TIẾP ( ĐỀ SỐ 04 )
 ## BÀI 1 : ĐẢO NGỮ ( BUỔI 1 )
 
 <!-- [BÀI HỌC](https://youtu.be/XNyE2kz2KuM) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/17rm5TSBx-xeQdxdRYFaMM-WqBp17y2By/view?usp%3Dsharing)
 
 2
@@ -934,6 +1000,7 @@ THI ONLINE : CÂU TRỰC TIẾP , CÂU GIÁN TIẾP ( ĐỀ SỐ 04 )
 ## BÀI 2 : ĐẢO NGỮ ( BUỔI 2 )
 
 <!-- [BÀI HỌC](https://youtu.be/Cll1NP8Y4gY) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1caMgpP5ow1efdnXnd_keloOR93M4MwLb/view?usp%3Dsharing)
 
 3
@@ -941,6 +1008,7 @@ THI ONLINE : CÂU TRỰC TIẾP , CÂU GIÁN TIẾP ( ĐỀ SỐ 04 )
 ## BÀI 3 : ĐẢO NGỮ ( BUỔI 3 )
 
 <!-- [BÀI HỌC](https://youtu.be/Hjp_TDOvjSA) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1KTdPHPeJNtOSj7J0U_umyHN1DUwmp2yJ/view?usp%3Dsharing)
 
 4
@@ -991,6 +1059,7 @@ THI ONLINE : ĐẢO NGỮ ( ĐỀ SỐ 08 )
 ## BÀI 1 : CÂU HỎI ĐUÔI
 
 <!-- [BÀI HỌC](https://youtu.be/aY5rT-YflPE) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1gOy5PVNjiBPc63OSg_wg6bWEr-FFaPmc/view?usp%3Dsharing)
 
 2
@@ -1026,6 +1095,7 @@ THI ONLINE : CÂU HỎI ĐUÔI ( ĐỀ SỐ 03 )
 ## BÀI 1 : PHÂN TỪ
 
 <!-- [BÀI HỌC](https://youtu.be/eyfwfASEqDE) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1gUuDnc5YYxwsXofp7PUz4AsBjoFkCiWy/view?usp%3Dsharing)
 
 2
@@ -1061,6 +1131,7 @@ THI ONLINE : PHÂN TỪ ( ĐỀ SỐ 05 )
 ## BÀI 1 : GIẢ ĐỊNH CÁCH
 
 <!-- [BÀI HỌC](https://youtu.be/KSZu-YivZ_U) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1ae7kStvfy0LBdm7F8HaREdk--QMg4kzh/view?usp%3Dsharing)
 
 2
@@ -1096,6 +1167,7 @@ THI ONLINE : GIẢ ĐỊNH CÁCH ( ĐỀ SỐ 05 )
 ## BÀI 1 : MỆNH ĐỀ QUAN HỆ ( BUỔI 1 )
 
 <!-- [BÀI HỌC](https://youtu.be/qtaL17Y_vnU) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1oqpvVwJHhIDVjQqRG7ZeiDHtrzi9amiZ/view?usp%3Dsharing)
 
 2
@@ -1103,6 +1175,7 @@ THI ONLINE : GIẢ ĐỊNH CÁCH ( ĐỀ SỐ 05 )
 ## BÀI 2 : MỆNH ĐỀ QUAN HỆ ( BUỔI 2 )
 
 <!-- [BÀI HỌC](https://youtu.be/la-tb_1m4YM) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1SS-U9oYxCREV5W1n-o3OAyuwZvlPeQ2J/view?usp%3Dsharing)
 
 3
@@ -1145,6 +1218,7 @@ THI ONLINE : MỆNH ĐỀ QUAN HỆ ( ĐỀ SỐ 07 )
 ## BÀI 3 : CÂU CHẺ
 
 <!-- [BÀI HỌC](https://youtu.be/dOXnWDyAtp0) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1ANRtHGm_saW5PasfB_mP-v20mlKumVoW/view?usp%3Dsharing)
 
 # CHUYÊN ĐỀ 20 : CÁC DẠNG MỆNH ĐỀ
@@ -1154,6 +1228,7 @@ THI ONLINE : MỆNH ĐỀ QUAN HỆ ( ĐỀ SỐ 07 )
 ## BÀI 1 : CÁC DẠNG MỆNH ĐỀ
 
 <!-- [BÀI HỌC](https://youtu.be/iKSUiJgafEE) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1_YQ5Xb-lfeBJeukwsOZyyeDYIjdY_YMH/view?usp%3Dsharing)
 
 2
@@ -1161,6 +1236,7 @@ THI ONLINE : MỆNH ĐỀ QUAN HỆ ( ĐỀ SỐ 07 )
 ## BÀI 2 : MỆNH ĐỀ DANH TỪ
 
 <!-- [BÀI HỌC](https://youtu.be/Za3_Di1zxts) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1N5PJ8UkgP64qZEe4K1EXLGjXIYilFk86/view?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1X83MmLmzm0q_BV8NGqdp4O9I2auQ85cn/view?usp%3Dsharing)
 3
@@ -1188,6 +1264,7 @@ THI ONLINE : CÁC DẠNG MỆNH ĐỀ ( ĐỀ SỐ 04 )
 ## BÀI 3 : RÚT GỌN 2 MỆNH ĐỀ CÓ CÙNG CHỦ NGỮ
 
 <!-- [BÀI HỌC](https://youtu.be/LdX6CL8psp8) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1XR8NFEi50_Pthn4DpiV8ElYfeqTSPStE/view?usp%3Dsharing)
 
 # CHUYÊN ĐỀ 21 : LIÊN TỪ VÀ TRẠNG TỪ LIÊN KẾT
@@ -1197,6 +1274,7 @@ THI ONLINE : CÁC DẠNG MỆNH ĐỀ ( ĐỀ SỐ 04 )
 ## BÀI 1 : LIÊN KẾT VÀ TRẠNG TỪ LIÊN KẾT
 
 <!-- [BÀI HỌC](https://youtu.be/nNAcBMJSvF0) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1G06OfKHVgxWlmyRaRrCN9B2fZ0kx6FV4/view?usp%3Dsharing)
 
 2
@@ -1229,59 +1307,78 @@ THI ONLINE : LIÊN KẾT VÀ TRẠNG TỪ LIÊN KẾT ( ĐỀ SỐ 05 )
 
 1
 ẴM TRỌN ĐIỂM CÂU HỎI NGỮ PHÁP TRONG ĐỀ THI ( BUỔI 1 )
+
 <!-- [BÀI HỌC](https://youtu.be/Me_SY5M53Jc) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/14cJoSgiG9avfNkVUbArfwdcVbLig2GuR/view?usp%3Dsharing)
 
 2
 ẴM TRỌN ĐIỂM CÂU HỎI NGỮ PHÁP TRONG ĐỀ THI ( BUỔI 2 )
+
 <!-- [BÀI HỌC](https://youtu.be/maG81u0uYfs) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1iQ8q91kce3zhwCF7W3G7wbwOuSB7ObN8/view?usp%3Dsharing)
 
 3
 ẴM TRỌN ĐIỂM CÂU HỎI NGỮ PHÁP TRONG ĐỀ THI ( BUỔI 3 )
+
 <!-- [BÀI HỌC](https://youtu.be/P-GoeozyQc0) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/12MWnbT0ouijkoTJ0KwtF1nTxVqIls0u3/view?usp%3Dsharing)
 
 4
 ẴM TRỌN ĐIỂM CÂU HỎI NGỮ PHÁP TRONG ĐỀ THI ( BUỔI 4 )
+
 <!-- [BÀI HỌC](https://youtu.be/akOHq4Jqt70) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/19ZDWl2RnGtjerTO7VNKrAnXZQM6r1Ihj/view?usp%3Dsharing)
 
 5
 ẴM TRỌN ĐIỂM CÂU HỎI NGỮ PHÁP TRONG ĐỀ THI ( BUỔI 5 )
+
 <!-- [BÀI HỌC](https://youtu.be/dJWdjLRC3Xk) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1yOhTFThnyUEUJppdyJjFjk1rPilBUUUd/view?usp%3Dsharing)
 
 6
 TRỌNG ĐIỂM NGỮ PHÁP TRONG ĐỀ THI ( BUỔI 1 )
+
 <!-- [BÀI HỌC](https://youtu.be/uD1j03Kt99Q) -->
 
 7
 TRỌNG ĐIỂM NGỮ PHÁP TRONG ĐỀ THI ( BUỔI 2 )
+
 <!-- [BÀI HỌC](https://youtu.be/uD1j03Kt99Q) -->
 
 8
 TRỌNG ĐIỂM NGỮ PHÁP TRONG ĐỀ THI ( BUỔI 3 )
+
 <!-- [BÀI HỌC](https://youtu.be/YGhWCLWePFk) -->
 
 9
 TRỌNG ĐIỂM NGỮ PHÁP TRONG ĐỀ THI ( BUỔI 4 )
+
 <!-- [BÀI HỌC](https://youtu.be/Tg3jdAvdeRo) -->
 
 10
 TRỌNG ĐIỂM NGỮ PHÁP TRONG ĐỀ THI ( BUỔI 5 )
+
 <!-- [BÀI HỌC](https://youtu.be/q4GnhsxQ08A) -->
 
 # CHUYÊN ĐỀ 23: CHỨC NĂNG GIAO TIẾP
 
 1
 CHỨC NĂNG GIAO TIẾP
+
 <!-- [BÀI HỌC](https://www.youtube.com/playlist?list%3DPLOIBVzD2X7kGgX_mMIfgqyRoRyTbcDZoA) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1JiWXhJwnLg2ZvaBqY2BVdC0l_g7aMKvW/view?usp%3Dsharing)
 
 2
 CHỨC NĂNG GIAO TIẾP
+
 <!-- [BÀI HỌC](https://youtu.be/MznkZoUBMWQ) -->
+
 [TÀI LIỆU](https://drive.google.com/file/d/1iPibTh56zcx4kQZP2-PKjKqMxz3HI_6D/view?usp%3Dsharing)
 
 3
