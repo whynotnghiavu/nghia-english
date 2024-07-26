@@ -6,11 +6,11 @@
 
 ## BÀI 1 : TÌM HIỂU CHUNG VỀ CÁC TỪ LOẠI TRONG TIẾNG ANH
 
-
 <video controls src="ChuyenDe1/1/BaiHoc/1 1 Bài 1 Tìm hiểu chung về các từ loại trong tiếng Anh.mp4" title="Title"></video>
 
 [TÀI LIỆU](https://drive.google.com/drive/folders/1mo8QqxfGWKPsRu8HgB6mHOQi5dzDFsIz?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1NZrdJkHyKeh0FSCHn_3V3hteEToKV691/view?usp%3Dsharing)
+
 <!-- 2 -->
 
 ## BÀI 2 : PHƯƠNG PHÁP HỌC TỪ LOẠI ( BUỔI 1)
@@ -19,6 +19,7 @@
 
 [TÀI LIỆU](https://drive.google.com/drive/folders/1cSzeOdQ7I9VLRJoUeAPMRqOpsJGP7U67?usp%3Dsharing)
 [ĐÁP ÁN](https://drive.google.com/file/d/1tEf2AvqfQa0RHflu6LEHZkmol-XTLxRa/view?usp%3Dsharing)
+
 <!-- 3 -->
 
 ## BÀI 3 : PHƯƠNG PHÁP HỌC TỪ LOẠI ( BUỔI 2 )
