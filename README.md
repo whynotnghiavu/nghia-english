@@ -2,6 +2,11 @@
 
 [TIẾNG ANH CÔ MAI PHƯƠNG CHUYÊN ĐỀ NGỮ PHÁP TIẾNG ANH TRỌN ĐỜI](<contents/TIẾNG ANH CÔ MAI PHƯƠNG CHUYÊN ĐỀ NGỮ PHÁP TIẾNG ANH TRỌN ĐỜI/TIẾNG ANH CÔ MAI PHƯƠNG CHUYÊN ĐỀ NGỮ PHÁP TIẾNG ANH TRỌN ĐỜI.md>)
 
+
+<!--  -->
+
+<!-- start Chrome https://www.youtubepp.com/watch?v= -->
+
 <!--  -->
 
 Dùng excel lấy thông tin cột markdown
@@ -22,3 +27,21 @@ Ctrl + L thay  &sa=D&source thành )
 Ctrl + L bình luận   youtu để xử lý
 
 
+<!--  -->
+
+
+ 
+
+11 1
+11 2
+11 3
+<!--  -->
+13 4
+<!--  -->
+14 4
+<!--  -->
+22 ...
+<!--  -->
+23 1
+
+https://www.youtube.com/playlist?list%3DPLOIBVzD2X7kGgX_mMIfgqyRoRyTbcDZoA
