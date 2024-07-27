@@ -3,11 +3,11 @@
 [TIẾNG ANH CÔ MAI PHƯƠNG CHUYÊN ĐỀ NGỮ PHÁP TIẾNG ANH TRỌN ĐỜI](<contents/TIẾNG ANH CÔ MAI PHƯƠNG CHUYÊN ĐỀ NGỮ PHÁP TIẾNG ANH TRỌN ĐỜI/TIẾNG ANH CÔ MAI PHƯƠNG CHUYÊN ĐỀ NGỮ PHÁP TIẾNG ANH TRỌN ĐỜI.md>)
 
 
-<!--  -->
+<!-- -->
 
 <!-- start Chrome https://www.youtubepp.com/watch?v= -->
 
-<!--  -->
+<!-- -->
 
 Dùng excel lấy thông tin cột markdown
 
@@ -23,21 +23,8 @@ Nếu bằng nhau thì thay thế:
 https://www.google.com/url?q=https
 https
 
-Ctrl + L thay  &sa=D&source thành )
-Ctrl + L bình luận   youtu để xử lý
+Ctrl + L thay &sa=D&source thành )
+Ctrl + L bình luận youtu để xử lý
 
+<!-- 22 9 Nghia - -->
 
-<!--  -->
-
-
- 
-
-11 1
-11 2
-11 3
-<!--  -->
-13 4
-<!--  -->
-14 4
-<!--  -->
-22 ...
