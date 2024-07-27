@@ -41,7 +41,3 @@ Ctrl + L bình luận   youtu để xử lý
 14 4
 <!--  -->
 22 ...
-<!--  -->
-23 1
-
-https://www.youtube.com/playlist?list%3DPLOIBVzD2X7kGgX_mMIfgqyRoRyTbcDZoA
