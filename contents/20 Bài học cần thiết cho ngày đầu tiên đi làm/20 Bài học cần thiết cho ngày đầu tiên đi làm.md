@@ -1,41 +1,89 @@
-# Bài 1.mp4
+# Bài 1: Giới thiệu khóa học
 
-# Bài 2.mp4
+Phần 1: Chuẩn bị cho ngày đầu tiên đi làm
+Phần 2: Tương tác với công ty
+Phần 3: Rèn luyện kỹ năng
 
-# Bài 3.mp4
+# Bài 2: Chuẩn bị cho ngày đầu tiên đi làm
 
-# Bài 4.mp4
+<!-- Những thủ tục cần thiết -->
 
-# Bài 5.mp4
+Kiểm tra tất cả những hạng mục thỏa thuận giữa bạn và doanh nghiệp. Nếu có thắc mắc hỏi bộ phận nhân sự
 
-# Bài 6.mp4
+<!-- Đặt câu hỏi về công việc -->
 
-# Bài 7.mp4
+Tác phong
+Trang phục
+Quy tắc ứng xử
+Văn hóa của công ty
+Thời gian làm việc
 
-# Bài 8.mp4
+<!-- Tìm hiểu về công ty -->
 
-# Bài 9.mp4
+Thông tin cơ bản của công ty:
+Địa chỉ
+Lịch sử hình thành
+Tầm nhìn sứ mệnh
+Giá trị cốt lõi
 
-# Bài 10.mp4
+Các sản phẩm của công ty:
 
-# Bài 11.mp4
+Thông tin của sếp:
 
-# Bài 12.mp4
+# Bài 3: Ngày đầu tiên đi làm
 
-# Bài 13.mp4
+Chào hỏi
+Chuẩn bị đoạn giới thiệu bản thân
 
-# Bài 14.mp4
+<!-- Lời khuyên -->
 
-# Bài 15.mp4
+Ít nói
+Vui vẻ
+Tâm trạng lạc quan
 
-# Bài 16.mp4
+<!-- Tình huống -->
 
-# Bài 17.mp4
+Công ty chào đón hoành tráng:
 
-# Bài 18.mp4
+Chỉ chào đón ở cấp phòng ban:
 
-# Bài 19.mp4
+Không được đón tiếp nồng hậu:
 
-# Bài 20.mp4
+=> Suy nghĩ tích cực
+=> Trao đổi đồng nghiệp, sếp về tài liệu
 
-# Bài 21.mp4
+# Bài 4: Lần đầu tiên gặp sếp
+
+# Bài 5:
+
+# Bài 6:
+
+# Bài 7:
+
+# Bài 8:
+
+# Bài 9:
+
+# Bài 10:
+
+# Bài 11:
+
+# Bài 12:
+
+# Bài 13:
+
+# Bài 14:
+
+# Bài 15:
+
+# Bài 16:
+
+# Bài 17:
+
+# Bài 18:
+
+# Bài 19:
+
+# Bài 20:
+
+# Bài 21:
