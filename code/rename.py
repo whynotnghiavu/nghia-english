@@ -3,6 +3,7 @@ import os
 # Đường dẫn đến folder cha
 parent_folder = r"C:\Users\vvn20206205\Desktop\ChuyenDe"
 parent_folder = r"C:\Users\vvn20206205\Desktop\KhoaHoc"
+parent_folder = r"C:\Users\vvn20206205\Desktop\TOIEC\TOEIC PREP\1. NỀN TẢNG 300+\Từ vựng cơ bản\Bài tập khóa từ vựng cơ bản"
 
 # Lấy danh sách các folder con
 subfolders = [f for f in os.listdir(parent_folder) if os.path.isdir(os.path.join(parent_folder, f))]
