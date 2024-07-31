@@ -54,7 +54,15 @@ Không được đón tiếp nồng hậu:
 
 # Bài 4: Lần đầu tiên gặp sếp
 
-# Bài 5:
+Sếp cấp công ty
+Sếp cấp phòng ban
+Sếp trực tiếp
+
+# Bài 5: Ngày đầu tiên được đào tạo
+
+
+
+
 
 # Bài 6:
 

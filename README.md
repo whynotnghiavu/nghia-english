@@ -1,11 +1,10 @@
+<!-- JPG PNG FLV WMA -->
+
 [text](<contents/20 Bài học cần thiết cho ngày đầu tiên đi làm/20 Bài học cần thiết cho ngày đầu tiên đi làm.md>)
-
-
 
 <!-- TOEIC-PREP -->
 
 [TIẾNG ANH CÔ MAI PHƯƠNG CHUYÊN ĐỀ NGỮ PHÁP TIẾNG ANH TRỌN ĐỜI](<contents/TIẾNG ANH CÔ MAI PHƯƠNG CHUYÊN ĐỀ NGỮ PHÁP TIẾNG ANH TRỌN ĐỜI/TIẾNG ANH CÔ MAI PHƯƠNG CHUYÊN ĐỀ NGỮ PHÁP TIẾNG ANH TRỌN ĐỜI.md>)
-
 
 <!-- -->
 
@@ -31,4 +30,3 @@ Ctrl + L thay &sa=D&source thành )
 Ctrl + L bình luận youtu để xử lý
 
 <!-- 22 9 Nghia - -->
-
